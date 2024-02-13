@@ -1,6 +1,8 @@
-[banner]https://www.headlightmag.com/hlmwp/wp-content/uploads/2021/07/Aventador-LP-780-4-Ultimae_2.jpg
+![banner](https://www.headlightmag.com/hlmwp/wp-content/uploads/2021/07/Aventador-LP-780-4-Ultimae_2.jpg)
 # สมุดบันทึก
 
 สำหรับวิชา OOP
+
+![downloand banner](./banner.jpg)
 
 กฤตธนกร เชื้อประทุม
