@@ -3,6 +3,6 @@
 
 สำหรับวิชา OOP
 
-![download](![Fxxk])
+![download](Fxxk.jpg)
 
 กฤตธนกร เชื้อประทุม
