@@ -3,7 +3,6 @@
 
 สำหรับวิชา OOP
 
-![downloand![Aventador-LP-780-4-Ultimae_1](https://github.com/BabyPolarisu/BabyPolarisu/assets/159878653/6f9fde06-aea3-4e22-bcf7-ddbbb8d1e258)
- banner](./banner.jpg)
+![download](![Fxxk])
 
 กฤตธนกร เชื้อประทุม
